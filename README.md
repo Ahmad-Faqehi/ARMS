@@ -32,7 +32,7 @@ Automated Academic Reports Management System(ARMS) is a web-application for auto
       <a href="#about-the-project">About The Project</a>
     </li>
     <li>
-      <a href="#getting-started">Build With</a>
+      <a href="#build-with">Build With</a>
     </li>
     <li><a href="#usage">Screenshots</a></li>
     <li><a href="#contact">Contact</a></li>

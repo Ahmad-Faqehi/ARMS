@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
    <a href="https://github.com/Ahmad-Faqehi/ARMS">
-    <img src="Screenshot/New_Logo_ARMS.png" alt="Logo" width="80" height="80">
+    <img src="Screenshot/New_Logo_ARMS.png" alt="Logo" width="350" height="135">
   </a> 
 
   <h3 align="center">ARMS</h3>
